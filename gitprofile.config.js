@@ -29,10 +29,10 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/Abdallah-Afifi/Resume/raw/main/Abdallah_Afifi___Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Adham-Gohar/Resume/raw/main/Internship_Resume_Adham_Gohar.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'C', 'C++', 'Python', 'Java', 'Kotlin', 'Dart', 'Flutter', 'React Native', 'JavaScript', 'HTML', 'CSS', 'PHP', 'Node.js',
+    'C', 'C++', 'Python', 'HTML',
   ],
 //  experiences: [
   //  {
@@ -112,7 +112,7 @@ const config = {
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: true,
+    respectPrefersColorScheme: false,
 
     // Hide the ring in Profile picture
     hideAvatarRing: false,
